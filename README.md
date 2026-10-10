@@ -17,10 +17,6 @@ Practicar el uso de HTML, CSS y JavaScript para crear una interfaz interactiva, 
 - Convertir Celsius a Fahrenheit y Kelvin.
 - Validar que el valor ingresado sea numérico.
 - Mostrar los resultados sin duplicar los anteriores.
-- Cambiar los colores según la temperatura:
-  - 🔵 Azul: menos de 10 °C.
-  - 🟡 Amarillo: entre 10 °C y 25 °C.
-  - 🔴 Rojo: más de 25 °C.
 - Adaptar la interfaz a diferentes tamaños de pantalla.
 
 ## 🧮 Fórmulas utilizadas
